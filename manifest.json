@@ -1,0 +1,14 @@
+{
+	"lang":"tr",
+	"name":"Selam!",
+	"icons":[
+		{
+			"src": "https://i.hizliresim.com/iosw2ja.png",
+			"sizes": "152x152",
+			"type": "image/png"
+		}
+	],
+	"start_url": "./index.html",
+	"display":"standalone",
+	"background_color":"#343A40"
+}
